@@ -1,5 +1,5 @@
 import Webcam from "react-webcam"
-
+import * as tf from "@tensorflow/tfjs"
 import './App.css'
 
 function App() {
