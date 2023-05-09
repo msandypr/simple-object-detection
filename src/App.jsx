@@ -1,5 +1,6 @@
 import Webcam from "react-webcam"
 import * as tf from "@tensorflow/tfjs"
+import * as model from "@tensorflow-models/coco-ssd"
 import './App.css'
 
 function App() {
